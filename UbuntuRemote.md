@@ -72,7 +72,7 @@ cd remote
 ```console
 nano remote.sh
 ```
-> Ardından gerekli paketleri yüklemek için
+> Gerekli paketler için aşağıdakileri açılan dosyaya yapıştıralım , Sırasıyla Ctrl + X , Ctrl + Y , Enter basarak kaydedelim
 ```console
 #!/bin/bash
 
