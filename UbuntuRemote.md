@@ -46,6 +46,12 @@
 ```
 > Sonrasında ilk bağlantı şifremizi gireceğiz. Şifreyi yazarken karakter göstermez doğru yazmaya dikkat edelim
 
+> BAŞARISIZ BAĞLANTIDAN SONRA WARNING MAN IN MIDDLE HATASI ALIRSANIZ AŞAĞIDAKİ KOD İLE O BAĞLANMAK İSTENİLEN SUNUCUYA KEYGEN SIFIRLAYIN
+
+```console
+ ssh-keygen -R SUNUCUIP
+```
+
 > HETZNER için-Sunucumuza bağlantıyı başarıyla bağlandıktan sonra
 ```console
 # sistemi sırasıyla aşağıdakileri yazarak güncelleyelim
