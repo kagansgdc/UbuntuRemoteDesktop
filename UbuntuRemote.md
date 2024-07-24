@@ -124,3 +124,11 @@ chmod +x remote.sh
 ./remote.sh
 ```
 Sistemimiz uzaktan bağlantılar için hazır. Belirlediğimiz kullanıcı ile giriş yapacağız
+
+```console
+# Eğer seasman gibi bağlantı sorunu yaşarsanız uzaktan bağlantı ekranı gelmez ise aşağıdakileri deneyin.
+# IPv6 etkin mi görelim
+sysctl -a | grep disable_ipv6
+# Devre dışı bırakalım
+sysctl -w net.ipv6.conf.lo.disable_ipv6=0
+```
