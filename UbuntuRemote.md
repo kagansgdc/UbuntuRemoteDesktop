@@ -46,12 +46,15 @@
 ```
 > Sonrasında ilk bağlantı şifremizi gireceğiz. Şifreyi yazarken karakter göstermez doğru yazmaya dikkat edelim
 
-
-
+#
+<details>
+  <summary> <h1> KEYGEN MAN IN MIDDLE HATASI </summary> </h1>
 ```console
 # BAŞARISIZ BAĞLANTIDAN SONRA WARNING MAN IN MIDDLE HATASI ALIRSANIZ AŞAĞIDAKİ KOD İLE O BAĞLANMAK İSTENİLEN SUNUCUYA KEYGEN SIFIRLAYIN
  ssh-keygen -R SUNUCUIP
 ```
+  </details>
+#
 
 > HETZNER için-Sunucumuza bağlantıyı başarıyla bağlandıktan sonra
 ```console
